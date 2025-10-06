@@ -1,0 +1,42 @@
+{
+  "name": "Sistema de Gestión de Actividades - Consejo Deliberante Posadas",
+  "short_name": "Gestión Actividades",
+  "description": "Aplicación para gestionar actividades del Honorable Consejo Deliberante de Posadas, Misiones",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "government", "utilities"],
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Dashboard de administración"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vista móvil de tareas"
+    }
+  ]
+}
